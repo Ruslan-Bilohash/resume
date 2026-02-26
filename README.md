@@ -78,15 +78,6 @@
 ---
 ---
 
-**✅ ГОТОВО!**  
-
-Ось **повна англійська версія** `README.md` — сучасна, професійна і готова до публікації на GitHub.
-
----
-
-### 📁 `README.md` (копіюй повністю)
-
-```markdown
 # ResumeBuilder 🚀
 
 **Modern Online Resume Builder** with 3 languages support
